@@ -1,0 +1,25 @@
+*{
+}
+#repositories{
+
+}
+
+div{
+	float: left;
+	width:50%;
+	box-sizing: border-box;
+
+}
+#firstdiv{
+/*		background-color:red;*/
+text-align: center;
+}
+#seconddiv{
+/*	background-color:blue;*/	
+text-align: center;
+}
+/*style="list-style-type:none"*/
+
+li{
+
+}
